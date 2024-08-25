@@ -2,7 +2,7 @@
 
 #프로젝트 GitHub 레포지토리 구성하기 편
 AIFFEL_quest_cr
-├── Exploration
+├── MainQuest
 │   ├── Ex01
 │   │   ├── _*.ipynb
 │   │   └── README.md
